@@ -25,6 +25,9 @@ public class Main {
             sc.nextLine(); // consume newline
 
             switch (choice) {
+                case 2:
+                    CoursesSubMenu.CoursesSubMenu(sc);
+                    break;
                 case 3:
                     facultyManager.facultyMenu(sc);
                     break;
