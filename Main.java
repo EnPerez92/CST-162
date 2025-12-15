@@ -25,6 +25,9 @@ public class Main {
             sc.nextLine(); // consume newline
 
             switch (choice) {
+                case 1:
+                    Student.Student(sc);
+                    break;
                 case 2:
                     CoursesSubMenu.CoursesSubMenu(sc);
                     break;
