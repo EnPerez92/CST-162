@@ -1,0 +1,4 @@
+The Student class is responsible for managing all student-related
+operations in the School Information System. It uses a text-based menu
+system and relies on the Scanner class for user input and an ArrayList
+to store student records in memory.
