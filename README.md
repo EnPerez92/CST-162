@@ -1,1 +1,29 @@
-The school information system allows users to access both student and faculty members information. Users are able to access and manage information about both the students and staff. With the main menu of the program, users can view pages such as adding new students, deleting students, adding new courses for students, adding new faculty, returning to the main menu, and much more. The main goal of this project is to simulate a real school information website. Each section leads to another menu where you can choose from different selections. The students section lets users see everything relating to adding new students, view all students, updating the GPAs of students, adding completed courses, deleting students, and checking to see if a student is able to graduate or not. The course section lets users add new courses, delete courses, view all courses, and update courses. They are also able to view the name of the course, its legnth, the credit hours, and the capacity. And finally, for the faculty section, users are able to add new faculty members, delete/fire faculty, and update faculty information. You can also view their name, the subject they teach, their contact information, posistion, and if their availabe or not. And of course, every section has the ability to return back to the main menu with the push of a button. 
+# School Information System
+
+## Overview
+The School Information System is a Java-based application designed to manage student, faculty, and course information. This project allows users to view, add, update, and delete records through a menu-driven system. It was created to practice object-oriented programming and build a structured program that simulates a real-world academic management system.
+
+## Features
+- Add, view, update, and delete student records
+- Manage faculty information
+- Add, update, and remove course details
+- Track student GPA information
+- Check student graduation eligibility
+- Navigate through different modules using a menu system
+
+## Technologies Used
+- Java
+- Object-Oriented Programming (OOP)
+- VS Code
+
+## What I Learned
+Through this project, I strengthened my understanding of Java programming, object-oriented design, and organizing code into multiple classes and modules. I also practiced building a structured system with logic that connects different parts of an application.
+
+## How to Run
+1. Open the project in VS Code or another Java IDE
+2. Compile the Java files
+3. Run `Main.java`
+4. Use the menu options to interact with the system
+
+## Author
+Ellie Perez
